@@ -3,3 +3,4 @@
 *.class 
 .metadata/ 
 _msgnode/ 
+*.exe 
