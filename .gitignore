@@ -1,0 +1,5 @@
+# ACE Toolkit artifacts 
+*.bak 
+*.class 
+.metadata/ 
+_msgnode/ 
