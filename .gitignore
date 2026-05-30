@@ -4,3 +4,6 @@
 .metadata/ 
 _msgnode/ 
 *.exe 
+FINTX_NODE/ 
+FINTX_SERVER/ 
+ace-workspace/.metadata/ 
